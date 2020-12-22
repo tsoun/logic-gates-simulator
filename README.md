@@ -1,12 +1,14 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Logic Gates Simulator is a program simulating logic circuits.
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
+- 'gates' : the folder to contain the basic gates (AND, OR, XOR, NAND, NOR, INVERTER)
+- 'circuits' : the folder that contains the prebuilt MUX 4 to 1 as of now.
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management
