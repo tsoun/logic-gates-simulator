@@ -7,8 +7,8 @@ Logic Gates Simulator is a program simulating logic circuits.
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- 'gates' : the folder to contain the basic gates (AND, OR, XOR, NAND, NOR, INVERTER)
-- 'circuits' : the folder that contains the prebuilt MUX 4 to 1 as of now.
+- `gates` : the folder to contain the basic gates (AND, OR, XOR, NAND, NOR, INVERTER)
+- `circuits` : the folder that contains the prebuilt MUX 4 to 1 as of now.
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management
